@@ -6,17 +6,18 @@ I'm a **Software Engineer & Backend Developer** focused on building robust serve
 
 ### 💻 Tech Stack
 
-* **Languages:** C#, Python, JavaScript
+* **Languages:** C#, Java, Python, JavaScript
 * **Backend & APIs:** .NET, Node.js
 * **Databases:** SQL Server, PostgreSQL, MySQL
-* **Infrastructure & Tools:** Windows Server, Windows Defender Server, Git, Postman, Visual Studio
+* **Cloud & Infrastructure:** Azure, Terraform, Windows Server, Windows Defender Server
+* **Tools:** Git, Postman, Visual Studio
 
 ---
 
 ### 🚀 What I'm currently working on
 * Designing and managing structured, transactional database systems.
-* Administering secure server environments and institutional platforms.
-* Improving my skills in cloud infrastructure and backend performance.
+* Administering secure server environments and cloud infrastructure.
+* Improving my skills in cloud deployment and backend performance.
 
 ---
 
