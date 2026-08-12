@@ -1,25 +1,39 @@
-<h1 align="center">David Alejandro Lopez Huerta</h1>
-<h3 align="center">Backend Engineer | Database Administrator</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+# David Alejandro Lopez Huerta
+**Computer Systems Engineer | Backend Developer**
 
 ---
 
-### 👨‍💻 Professional Profile
-I specialize in the lifecycle of data: from structure and storage to API consumption. My background in System Engineering allows me to understand the "big picture" of infrastructure, not just the code.
+### Perfil Profesional
+Ingeniero en Sistemas Computacionales egresado del Tecnológico de Estudios Superiores de Ecatepec. Especialista en desarrollo backend y administración de bases de datos, con experiencia técnica en la gestión de infraestructura de seguridad y plataformas institucionales.
 
-*   **Core Competencies:** System Architecture, Database Optimization, Backend Security.
-*   **Current Focus:** Building scalable .NET APIs and managing robust cloud environments.
+### Enfoque Técnico
+Mi trabajo se centra en el desarrollo de servicios robustos, optimización de consultas en bases de datos y la gestión de entornos de servidor. Poseo capacidad para el análisis y resolución de problemas de escalabilidad.
 
-### 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavLopezH&theme=radical&hide_border=true" />
-</p>
+### Competencias Principales
+* **Backend Development:** Desarrollo de lógica de servidor y APIs.
+* **Database Administration:** Estructuración, gestión y optimización de datos (SQL, PostgreSQL, MySQL).
+* **Infrastructure:** Administración de plataformas de seguridad, incluyendo experiencia en Windows Defender Server.
+* **Sistemas:** Gestión de cuentas institucionales y administración de sistemas.
+
+### Tecnologías y Herramientas
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | C#, Python, JavaScript |
+| **Bases de Datos** | SQL, PostgreSQL, MySQL |
+| **Infraestructura** | Windows Server, Gestión de Servidores |
+| **Herramientas** | Git, Postman, Visual Studio |
 
 ---
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/tu-usuario) | [Portfolio/Email](mailto:tu-email@ejemplo.com)
+
+### Proyectos y Actividad
+Actualmente, mi foco técnico está en:
+* La implementación y administración de la plataforma Windows Defender Server.
+* El diseño de lógica estructurada y administración de bases de datos transaccionales.
+
+*Estoy trabajando constantemente en nuevos repositorios. Te invito a explorar mis proyectos públicos más recientes abajo.*
+
+---
+
+### Contacto
+* **GitHub:** [github.com/DavLopezH](https://github.com/DavLopezH)
+* **Estatus:** Abierto a oportunidades en Backend Software Development.
