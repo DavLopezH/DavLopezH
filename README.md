@@ -1,39 +1,62 @@
-# David Alejandro Lopez Huerta
-**Computer Systems Engineer | Backend Developer**
+<h1 align="center">Hi there 👋, I'm David</h1>
+<h3 align="center">💻 Computer Systems Engineer & Backend Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Online-success?style=flat-square&logo=reactivex" alt="Status" />
+</p>
 
 ---
 
-### Perfil Profesional
-Ingeniero en Sistemas Computacionales egresado del Tecnológico de Estudios Superiores de Ecatepec. Especialista en desarrollo backend y administración de bases de datos, con experiencia técnica en la gestión de infraestructura de seguridad y plataformas institucionales.
-
-### Enfoque Técnico
-Mi trabajo se centra en el desarrollo de servicios robustos, optimización de consultas en bases de datos y la gestión de entornos de servidor. Poseo capacidad para el análisis y resolución de problemas de escalabilidad.
-
-### Competencias Principales
-* **Backend Development:** Desarrollo de lógica de servidor y APIs.
-* **Database Administration:** Estructuración, gestión y optimización de datos (SQL, PostgreSQL, MySQL).
-* **Infrastructure:** Administración de plataformas de seguridad, incluyendo experiencia en Windows Defender Server.
-* **Sistemas:** Gestión de cuentas institucionales y administración de sistemas.
-
-### Tecnologías y Herramientas
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | C#, Python, JavaScript |
-| **Bases de Datos** | SQL, PostgreSQL, MySQL |
-| **Infraestructura** | Windows Server, Gestión de Servidores |
-| **Herramientas** | Git, Postman, Visual Studio |
+### 🚀 About Me
+- 🌱 I’m currently focused on **Backend Development, Databases, and System Administration**.
+- 💡 Passionate about building robust APIs, scalable architectures, and efficient data management.
+- ⚡ Fun fact: I love tech, clean code, and gaming in my free time.
 
 ---
 
-### Proyectos y Actividad
-Actualmente, mi foco técnico está en:
-* La implementación y administración de la plataforma Windows Defender Server.
-* El diseño de lógica estructurada y administración de bases de datos transaccionales.
+### 🛠️ Tech Stack & Tools
 
-*Estoy trabajando constantemente en nuevos repositorios. Te invito a explorar mis proyectos públicos más recientes abajo.*
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br>
+  <!-- Backend & Frameworks -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <br>
+  <!-- Databases & Infra -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <br>
+  <!-- Tools & Version Control -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-### Contacto
-* **GitHub:** [github.com/DavLopezH](https://github.com/DavLopezH)
-* **Estatus:** Abierto a oportunidades en Backend Software Development.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
