@@ -6,7 +6,7 @@ I'm a **Software Engineer & Backend Developer** focused on building robust serve
 
 ### Tech Stack
 
-* **Languages:** C#, Java, Python, JavaScript
+* **Languages:** C++, C#, Java, Python, JavaScript
 * **Backend & APIs:** .NET, Node.js
 * **Databases:** SQL Server, PostgreSQL, MySQL
 * **Cloud & Infrastructure:** Azure, Terraform, Windows Server, Windows Defender Server
