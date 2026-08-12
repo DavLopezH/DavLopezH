@@ -1,26 +1,25 @@
-# Hi there! I'm David 👋
+<h1 align="center">David Alejandro Lopez Huerta</h1>
+<h3 align="center">Backend Engineer | Database Administrator</h3>
 
-I am a **Computer Systems Engineer** focused on building scalable **Backend** architectures and robust database systems.
-
----
-
-### 🚀 About Me
-*   🎓 **Computer Systems Engineer** graduated from TESE.
-*   💻 Passionate about **Backend Development**, API design, and system administration.
-*   ☁️ Focused on cloud infrastructure and transactional database design.
-*   🔍 Always looking to optimize logic and improve system performance.
-
-### 🛠 Technical Stack
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C#, Python, JavaScript |
-| **Backend** | .NET, Node.js, Express |
-| **Databases** | SQL Server, PostgreSQL, MySQL |
-| **Infrastructure** | Windows Server, Azure basics |
-| **Tools** | Git, Postman, Visual Studio |
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![David's Stats](https://github-readme-stats.vercel.app/api?username=DavLopezH&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavLopezH&layout=compact&theme=radical&hide_border=true)
+### 👨‍💻 Professional Profile
+I specialize in the lifecycle of data: from structure and storage to API consumption. My background in System Engineering allows me to understand the "big picture" of infrastructure, not just the code.
+
+*   **Core Competencies:** System Architecture, Database Optimization, Backend Security.
+*   **Current Focus:** Building scalable .NET APIs and managing robust cloud environments.
+
+### 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavLopezH&theme=radical&hide_border=true" />
+</p>
+
+---
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/tu-usuario) | [Portfolio/Email](mailto:tu-email@ejemplo.com)
